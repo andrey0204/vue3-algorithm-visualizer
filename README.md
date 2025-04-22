@@ -13,7 +13,7 @@ Este proyecto es una aplicación educativa desarrollada con **Vue 3**, **TypeScr
 
 ## 🚀 Demo
 
-
+[Haz clic aquí para ver la app funcionando](https://vue3-algorithm-visualizer.vercel.app/)
 
 ---
 
