@@ -13,8 +13,7 @@ Este proyecto es una aplicación educativa desarrollada con **Vue 3**, **TypeScr
 
 ## 🚀 Demo
 
-> Próximamente en GitHub Pages o Vercel...
-> *(Agrega aquí tu link de despliegue si lo tienes)*
+
 
 ---
 
@@ -38,4 +37,7 @@ Este proyecto es una aplicación educativa desarrollada con **Vue 3**, **TypeScr
 
 ---
 
+## 🖼️ Vista previa
+
+![Vista previa de la app](./screenshot.png)
 
